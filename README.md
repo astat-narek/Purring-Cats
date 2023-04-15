@@ -2,12 +2,12 @@
 Experience the cozy purring of cats. Choose from preinstalled cat images or add your own cat photos to the app. Perfect for cat lovers!
 
 
-<img width="150" alt="Deep Purple-0" src="https://user-images.githubusercontent.com/62169821/232239033-53954dd7-8a9c-4984-bca9-899bd8755960.png">. 
-<img width="150" alt="Deep Purple-1" src="https://user-images.githubusercontent.com/62169821/232239054-9e1bd05e-db72-4bd6-b810-f270d8075706.png">.
-<img width="150" alt="Deep Purple-2" src="https://user-images.githubusercontent.com/62169821/232239077-5ecaf3e7-adea-4458-b036-ee2121e60969.png">. 
-<img width="150" alt="Deep Purple-3" src="https://user-images.githubusercontent.com/62169821/232239097-479cfc34-a765-41fe-a122-bcd5a1f63dba.png">.
-<img width="150" alt="Deep Purple-4" src="https://user-images.githubusercontent.com/62169821/232239131-40388f5e-1383-4263-a823-ad70f17016b1.png">.
-<img width="150" alt="Deep Purple-5" src="https://user-images.githubusercontent.com/62169821/232239192-bb5e99c9-6021-4961-84df-f84c109fbe1b.png">.
+<img width="140" alt="Deep Purple-0" src="https://user-images.githubusercontent.com/62169821/232239033-53954dd7-8a9c-4984-bca9-899bd8755960.png">. 
+<img width="140" alt="Deep Purple-1" src="https://user-images.githubusercontent.com/62169821/232239054-9e1bd05e-db72-4bd6-b810-f270d8075706.png">.
+<img width="140" alt="Deep Purple-2" src="https://user-images.githubusercontent.com/62169821/232239077-5ecaf3e7-adea-4458-b036-ee2121e60969.png">. 
+<img width="140" alt="Deep Purple-3" src="https://user-images.githubusercontent.com/62169821/232239097-479cfc34-a765-41fe-a122-bcd5a1f63dba.png">.
+<img width="140" alt="Deep Purple-4" src="https://user-images.githubusercontent.com/62169821/232239131-40388f5e-1383-4263-a823-ad70f17016b1.png">.
+<img width="140" alt="Deep Purple-5" src="https://user-images.githubusercontent.com/62169821/232239192-bb5e99c9-6021-4961-84df-f84c109fbe1b.png">.
 
 
 
