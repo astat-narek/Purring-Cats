@@ -1,4 +1,4 @@
-# Purring-Cats
+# Purring Cats
 Experience the cozy purring of cats. Choose from preinstalled cat images or add your own cat photos to the app. Perfect for cat lovers!
 
 
